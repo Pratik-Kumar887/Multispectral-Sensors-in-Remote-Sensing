@@ -1,7 +1,7 @@
 # Multispectral Sensors in Remote Sensing
 
 
-This repository is a coursework / academic project from the **Department of Mining Engineering** that surveys the major **multispectral sensors used in Earth observation** — covering their evolution, working principles, technical specifications, and applications. It includes a presentation deck and an accompanying **Multispectral Sensors Database** that consolidates the key parameters of each sensor for quick reference.
+This repository is a coursework / academic project that surveys the major **multispectral sensors used in Earth observation** — covering their evolution, working principles, technical specifications, and applications. It includes a presentation deck and an accompanying **Multispectral Sensors Database** that consolidates the key parameters of each sensor for quick reference.
 
 
 ## Project Overview
